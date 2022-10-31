@@ -1,0 +1,115 @@
+.page1_container{
+    position: sticky;
+    top: 0;
+    background-color: antiquewhite;
+    z-index: 1;
+}
+.page1-container-li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    padding-top: 10px;
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 15px;
+    animation: nav-load 300ms ease-in;
+    
+}
+.page1-container-li h1{
+    cursor: pointer;
+}
+.page1-container-li ul{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    animation: nav-ul 700ms ease-in;
+    animation-delay: 300ms;
+    animation-fill-mode: forwards;
+    transform: scale(0);
+}
+.page1-container-li p{
+    font-size: 21px;
+    background:orange;
+    padding:15px;
+    color: white;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    animation-name: nav-hireme;
+    animation-duration: 900ms;
+    animation-delay: 300ms;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+    transform: scale(0);
+    
+}
+.page1-container-li ul li{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 21px;
+    padding:0px 10px;
+    user-select: none;
+    transition: ease-in-out 0.5s;
+    border-radius: 5px;
+}
+
+.page1-container-li ul li:hover{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.page1-container-li h1{
+    animation: nav-head 500ms ease-in;
+
+}
+@keyframes nav-ul {
+    0%{
+        transform: scale(0);
+    }
+    90%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+@keyframes nav-head {
+    0%{
+        transform: translateX(-1000%);
+    }
+    90%{
+        transform: translateX(-50%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+    
+}
+@keyframes nav-load{
+    0%{
+        transform: translateY(-100%);
+    }
+    100%{
+        transform:translateY(0);
+    }
+}
+
+@keyframes nav-hireme{
+    0%{
+        transform: translateX(1000%);
+    }
+    90%{
+        transform: translateX(-50%);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}

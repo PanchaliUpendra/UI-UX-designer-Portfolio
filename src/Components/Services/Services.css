@@ -1,0 +1,33 @@
+.services_header{
+    text-align: center;
+}
+.services_header p{
+    color: orange;
+}
+.sercices_explore_all{
+    position: absolute;
+    right:10%;
+    color: orange;
+    cursor:pointer;
+}
+.services_services123{
+    height:300px;
+    width: 350px;
+}
+.services_all_container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+}
+.service_img_with_all{
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+}
+.service_img_with_all p{
+    color: grey;
+}
+.service_container_group{
+    margin-left: 5%;
+    margin-right: 5%;
+}

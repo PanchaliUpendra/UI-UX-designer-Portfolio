@@ -1,0 +1,56 @@
+
+.about-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:5%;
+    height:60vh;
+}
+.about-site1{
+    width:500px;
+    height:400px;
+    border-radius: 10px;
+}
+.about-badge1{
+    width:50px;
+    height:50px;
+}
+.about-container-bit-aboutme{
+    margin-left: 5%;
+}
+.about-container-bit-aboutmep2{
+    color: rgb(106, 103, 103);
+    padding-top: 10px;
+    width:90%;
+}
+.about-container-bit-aboutmep1{
+    color: orange;
+    font-weight: bold;
+}
+.about-badg1{
+    display: flex;
+    flex-direction: row;
+    margin:5%;
+    margin-bottom: 0;
+}
+.about-all-badges1{
+    display: flex;
+    flex-direction: row;
+    
+}
+.about-hire-buttons{
+    margin-left: 5%;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    gap:5%;
+}
+.about-hire-buttons p{
+    padding:0 20px;
+    font-size: 21px;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    border-radius: 3px;
+}
+
