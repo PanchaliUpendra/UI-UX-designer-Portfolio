@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/UI-UX-designer-Portfolio/static/css/main.5af9a7da.css",
+    "main.js": "/UI-UX-designer-Portfolio/static/js/main.069cd6e7.js",
+    "static/js/787.b8a7e203.chunk.js": "/UI-UX-designer-Portfolio/static/js/787.b8a7e203.chunk.js",
+    "static/media/site1.png": "/UI-UX-designer-Portfolio/static/media/site1.8d05216bc05afa888aab.png",
+    "static/media/stand2.jpg": "/UI-UX-designer-Portfolio/static/media/stand2.11ab28a248519d3d9cb2.jpg",
+    "static/media/studies1.png": "/UI-UX-designer-Portfolio/static/media/studies1.70e0a1a68116f520398a.png",
+    "static/media/service3.png": "/UI-UX-designer-Portfolio/static/media/service3.c6e7ecac5fcc23d30e16.png",
+    "static/media/portfolio3.png": "/UI-UX-designer-Portfolio/static/media/portfolio3.d6a58e5ff7cbfefe3e01.png",
+    "static/media/portfolio4.png": "/UI-UX-designer-Portfolio/static/media/portfolio4.e30b79617fb1c8e0c44f.png",
+    "static/media/studies2.png": "/UI-UX-designer-Portfolio/static/media/studies2.90c8b2d36f631d8503c8.png",
+    "static/media/portfolio2.png": "/UI-UX-designer-Portfolio/static/media/portfolio2.942d43325544ffaefdc1.png",
+    "static/media/endimg.png": "/UI-UX-designer-Portfolio/static/media/endimg.aca1fc6a35ed70a607ae.png",
+    "static/media/studies3.png": "/UI-UX-designer-Portfolio/static/media/studies3.c184945126eb41446689.png",
+    "static/media/portfolio1.png": "/UI-UX-designer-Portfolio/static/media/portfolio1.6f2e6c03ef4eb367601f.png",
+    "static/media/part1img2.png": "/UI-UX-designer-Portfolio/static/media/part1img2.1e36a4b10775c44a3579.png",
+    "static/media/service2.png": "/UI-UX-designer-Portfolio/static/media/service2.befdaeb51689b452389b.png",
+    "static/media/service1.png": "/UI-UX-designer-Portfolio/static/media/service1.9830814846a7eae7cd6a.png",
+    "static/media/backgroundlast.png": "/UI-UX-designer-Portfolio/static/media/backgroundlast.1e7227be65af19184059.png",
+    "static/media/customer.png": "/UI-UX-designer-Portfolio/static/media/customer.ea90d509042ea48e5090.png",
+    "index.html": "/UI-UX-designer-Portfolio/index.html",
+    "main.5af9a7da.css.map": "/UI-UX-designer-Portfolio/static/css/main.5af9a7da.css.map",
+    "main.069cd6e7.js.map": "/UI-UX-designer-Portfolio/static/js/main.069cd6e7.js.map",
+    "787.b8a7e203.chunk.js.map": "/UI-UX-designer-Portfolio/static/js/787.b8a7e203.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af9a7da.css",
+    "static/js/main.069cd6e7.js"
+  ]
+}
